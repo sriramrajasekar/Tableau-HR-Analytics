@@ -38,7 +38,7 @@ It serves as a portfolio project to demonstrate my skills in HR data analysis, b
 
 ## 📷 Dashboard Preview
 
-<img width="1177" alt="Screenshot 2025-06-03 at 12 59 52 AM" src="https://github.com/user-attachments/assets/3600e743-8cba-4dfc-b63a-b138c4c0e641" />
+<img width="1177" alt="Screenshot 2025-06-03 at 12 59 52 AM" src="https://github.com/user-attachments/assets/7d1addc1-0ce1-4e21-91ab-7ea8611b134e" />
 
 
 
